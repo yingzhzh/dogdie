@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="34d72114-64de-4b93-92fe-08f69148251b" name="dogdie" url="http://172.31.50.18">
+        <fileTransfer host="172.31.50.18" port="22" rootFolder="/home/wwwroot/yingzhzh.com" accessType="SFTP" password="dfffdfe6dfcbdfc4df84dfc3dfc5df9bdf98df99" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
